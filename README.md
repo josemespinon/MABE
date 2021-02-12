@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Katalon Studio Samples: Android Mobile Tests
 Katalon Studio is a free and easy-to-use automated functional and regression testing platform. It provides users the ability to implement full automated testing solutions for their application projects with minimal engineering and programming skill requirements.
 ______
@@ -45,7 +44,3 @@ Katalon Documentation: http://docs.katalon.com/, especially some [Tips and Trick
 Katalon Forum: https://forum.katalon.com/
 
 Katalon Business Support: https://www.katalon.com/support-service-options/
-=======
-# MABE
-APP Agent ServiceNow
->>>>>>> branch 'main' of https://github.com/josemespinon/MABE
