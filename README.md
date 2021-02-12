@@ -44,4 +44,3 @@ Katalon Documentation: http://docs.katalon.com/, especially some [Tips and Trick
 Katalon Forum: https://forum.katalon.com/
 
 Katalon Business Support: https://www.katalon.com/support-service-options/
-
